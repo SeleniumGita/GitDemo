@@ -5,6 +5,7 @@ public class TestCase1 {
   @Test
   public void hello() {
 	  System.out.println("Inside test1 method");
+	  System.out.println("Add some text");
 	   }
   
 }
